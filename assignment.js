@@ -14,7 +14,7 @@ function kilometerToMeter(kilometer){
         return "Invalid Input. Try a Positive number or even a Zero(0).";
     }
 }
-console.log((kilometerToMeter(5.5)));
+console.log((kilometerToMeter(5)));
 // No.1 ends here
 
 

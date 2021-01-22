@@ -3,6 +3,7 @@
 # kilometerToMeter
 
 1. Negative and illegal numbers will be counted as invalid.
+2. It will show output for kilometerToMeter(0).
 
 # budgetCalculator
 
@@ -12,7 +13,7 @@
 # hotelCost
 
 1. Parameter can not be negative, fraction or illegal number.
-2. Must input positive integer (including Zero(0)) to get valid result
+2. Must input positive integer (including Zero(0)) to get valid result.
 
 # megaFriend
 
