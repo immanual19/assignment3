@@ -14,7 +14,7 @@ function kilometerToMeter(kilometer){
         return "Invalid Input. Try a Positive number or even a Zero(0).";
     }
 }
-console.log((kilometerToMeter(5)));
+console.log((kilometerToMeter(5.5)));
 // No.1 ends here
 
 
@@ -124,7 +124,7 @@ function hotelCost(totalDays)
         return totalCost;
     }
 }
-console.log(hotelCost(5));
+console.log(hotelCost(18));
 
 //No.3 ends here
 
@@ -200,7 +200,7 @@ function megaFriend(friendsNamelist){
 
 }
 
-friendsNamelist=["Abdul","","    ","98Kabul","Jamal","0Dhamaal","Kamaal khan","  Ahmed   Immanual  Sarker "];
+friendsNamelist=["Abdul","","    ","98Kabul","Jamal","0Dhamaal","Kamaal khan","Akhtaruzzaman Khan"];
 
 console.log(megaFriend(friendsNamelist));
 
