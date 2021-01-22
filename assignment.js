@@ -1,7 +1,8 @@
-//github link
+// https://github.com/immanual19/assignment3
 
 // No.1 starts here
 
+//Negative and illegal numbers will be counted as invalid.
 function kilometerToMeter(kilometer){
     if(kilometer>=0)
     {
